@@ -22,7 +22,7 @@ A lightweight neural API for quick inference using Flask and Python.
 
 📊 Coming soon:  
 - My portfolio with JS
-- A big project with my ow Idea
+- A big project with my own Idea
 
 
 ---
