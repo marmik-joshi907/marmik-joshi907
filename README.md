@@ -18,7 +18,7 @@
 ### 🛠️ Projects
 
 🔹 [**NeuraAPI**](https://github.com/marmik-joshi907/NeuraAPI)  
-A lightweight neural API for quick inference using Flask and Python.
+A lightweight neural API for quick inference using JS,MongoDB & googlecloud .
 
 📊 Coming soon:  
 - My portfolio with JS
