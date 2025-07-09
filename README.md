@@ -14,6 +14,8 @@
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Excel
 - **Frameworks:** Working on Node.js, Express.js
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik-joshi907&layout=compact&theme=dracula)
+
 
 
 ---
