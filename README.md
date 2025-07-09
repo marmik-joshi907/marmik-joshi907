@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Marmik Joshi
 
+![Profile Views](https://komarev.com/ghpvc/?username=marmik-joshi907&label=Profile%20views&color=0e75b6&style=flat)
+
+
 🎓 **Computer Science Student | Developer | Data Enthusiast**  
 💡 Passionate about turning ideas into code — from APIs to dashboards.
 
