@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Marmik Joshi
 
-![Profile Views](https://komarev.com/ghpvc/?username=marmik-joshi907&label=Profile%20views&color=0e75b6&style=flat)
+[![Visitor Map](https://visitcount.itsvg.in/api?id=marmik-joshi907&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 🎓 **Computer Science Student | Developer | Data Enthusiast**  
@@ -14,7 +15,15 @@
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Excel
 - **Frameworks:** Working on Node.js, Express.js
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik-joshi907&layout=compact&theme=dracula)
+---
+
+### 🔭 Currently Learning
+- DSA with JAVA
+- Mern stack
+- Computer Networks
+- Devops
+
+
 
 
 
@@ -49,6 +58,9 @@ My linkedin :- (https://www.linkedin.com/in/marmik-joshi-4745231a6/)
 ### 💡 Fun Fact
 
 I love automating repetitive tasks, building APIs from scratch, and visualizing data for smart decisions!
+
+![snake gif](https://github.com/marmik-joshi907/marmik-joshi907/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
