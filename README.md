@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marmik Joshi
 
-[![Visitor Map](https://visitcount.itsvg.in/api?id=marmik-joshi907&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=marmik-joshi907&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
@@ -59,7 +59,7 @@ My linkedin :- (https://www.linkedin.com/in/marmik-joshi-4745231a6/)
 
 I love automating repetitive tasks, building APIs from scratch, and visualizing data for smart decisions!
 
-![snake gif](https://github.com/marmik-joshi907/marmik-joshi907/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
