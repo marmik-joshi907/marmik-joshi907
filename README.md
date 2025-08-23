@@ -4,7 +4,7 @@
 
 
 
-🎓 **Computer Science Student | Developer | Data Enthusiast**  
+🎓 **Computer Science Undergraduate | Java & DSA | Aspiring Full Stack Developer | Web Development | 9 CGPA**  
 💡 Passionate about turning ideas into code — from APIs to dashboards.
 
 ---
