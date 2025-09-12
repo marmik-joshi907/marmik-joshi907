@@ -4,18 +4,18 @@
 
 
 
-🎓 Computer Science Undergraduate (9.0 CGPA) | Java & DSA Enthusiast | Aspiring Full Stack Developer | Web Development & APIs
+🎓 **Computer Science Undergraduate (9.0 CGPA)** | **Java & DSA Enthusiast** | **Aspiring Full Stack Developer** | **Web Development & APIs**  
 
-💡 I’m passionate about building scalable web applications, designing APIs, and turning ideas into real-world projects. From front-end dashboards to backend systems, I love working across the stack to create impactful solutions.
+💡 Passionate about **building scalable web applications**, **designing APIs**, and **turning ideas into real-world projects**. From **front-end dashboards** to **backend systems**, I love working across the stack to create impactful solutions.  
 
 ---
 
 ### 🧰 Tech Stack
 
-- Languages: C, C++, Java, SQL, JavaScript
-- Databases: MySQL, MongoDB
-- Frameworks & Tools: Node.js, Express.js, React (MERN), Git, VS Code
-- Other Interests: Computer Networks, DevOps, API Security
+- **Languages:** C, C++, Java, SQL, JavaScript  
+- **Databases:** MySQL, MongoDB  
+- **Frameworks & Tools:** Node.js, Express.js, React (MERN), Git, VS Code  
+- **Other Interests:** Computer Networks, DevOps, API Security  
 ---
 
 ### 🔭 Currently Learning
@@ -32,10 +32,10 @@
 
 ### 🛠️ Projects
 
-🔹 NeuraAPI
+🔹 [NeuraAPI](https://github.com/marmik-joshi907/NeuraAPI)  
 Lightweight neural API for quick inference using JavaScript, MongoDB, and Google Cloud.
 
-🔹 My Portfolio
+🔹 [My Portfolio](https://marmik907.vercel.app/)
 A clean, responsive portfolio built with Next.js & TypeScript, hosted on Vercel.
 
 🔹 Upcoming Big Project 🚀
@@ -53,20 +53,18 @@ Currently working on a full-stack project with my own idea—aimed at solving re
 
 ### 📫 Connect with Me
 
-My linkedin :- (https://www.linkedin.com/in/marmik-joshi-4745231a6/)
-📧 marmikjoshi52@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/marmik-joshi-4745231a6/)  
+- 📧 [Email Me](mailto:marmikjoshi52@gmail.com)  
+- 🌐 [Portfolio](https://marmik907.vercel.app/)  
 
 ---
 
-📊 GitHub Insights
-📌 Active contributions in full-stack projects, DSA practice, and open-source learning repos.
-📈 Strong foundation in Java, backend APIs, and MERN applications.
+## 📊 GitHub Insights  
 
-📫 Let’s Connect
+📌 Active contributions in **full-stack projects, DSA practice, and open-source learning repos**.  
+📈 Strong foundation in **Java, backend APIs, and MERN applications**.  
 
-💼 LinkedIn
-📧 Email: marmikjoshi52@gmail.com
-🌐 Portfolio
+---
 
 ### 💡 Fun Fact
 
