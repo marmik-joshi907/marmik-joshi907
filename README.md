@@ -48,9 +48,8 @@ Currently working on a full-stack project with my own idea—aimed at solving re
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marmik-joshi907/marmik-joshi907/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/marmik-joshi907/marmik-joshi907/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
