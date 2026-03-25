@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marmik-joshi907&label=Profile%20views&color=0e75b6&style=flat)
 
-
-
 🎓 **Computer Science Undergraduate (9.0 CGPA)** | **Java & DSA Enthusiast** | **Aspiring Full Stack Developer** | **Web Development & APIs**  
 
 💡 Passionate about **building scalable web applications**, **designing APIs**, and **turning ideas into real-world projects**. From **front-end dashboards** to **backend systems**, I love working across the stack to create impactful solutions.  
@@ -16,17 +14,14 @@
 - **Databases:** MySQL, MongoDB  
 - **Frameworks & Tools:** Node.js, Express.js, React (MERN), Git, VS Code  
 - **Other Interests:** Computer Networks, DevOps, API Security  
+
 ---
 
 ### 🔭 Currently Learning
 
-- Advanced Data Structures & Algorithms with Java
-- MERN Stack Development (React, Node.js, Express, MongoDB)
-- DevOps pipelines and automation for scalable apps
-
-
-
-
+- Advanced Data Structures & Algorithms with Java  
+- MERN Stack Development (React, Node.js, Express, MongoDB)  
+- DevOps pipelines and automation for scalable apps  
 
 ---
 
@@ -35,12 +30,11 @@
 🔹 [NeuraAPI](https://github.com/marmik-joshi907/NeuraAPI)  
 Lightweight neural API for quick inference using JavaScript, MongoDB, and Google Cloud.
 
-🔹 [My Portfolio](https://marmik907.vercel.app/)
+🔹 [My Portfolio](https://marmik907.vercel.app/)  
 A clean, responsive portfolio built with Next.js & TypeScript, hosted on Vercel.
 
-🔹 Upcoming Big Project 🚀
+🔹 Upcoming Big Project 🚀  
 Currently working on a full-stack project with my own idea—aimed at solving real-world problems.
-
 
 ---
 
@@ -48,6 +42,14 @@ Currently working on a full-stack project with my own idea—aimed at solving re
 
 ![Marmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marmik-joshi907&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marmik-joshi907&layout=compact&theme=dracula)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marmik-joshi907/marmik-joshi907/output/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -69,22 +71,3 @@ Currently working on a full-stack project with my own idea—aimed at solving re
 ### 💡 Fun Fact
 
 💡 Fun Fact: I enjoy automating repetitive tasks, designing REST APIs, and visualizing data for smarter decision-making.
-
-
-
-
-
-<!--
-**marmik-joshi907/marmik-joshi907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
